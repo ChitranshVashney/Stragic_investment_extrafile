@@ -246,7 +246,7 @@
     "Return_Category": "High Return",
     "symbol": "SHIBAKEN",
     "name": "ShibaKen.Finance",
-    "decimals": 18,
+    "decimals": 0,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa4Cf2aFD3B165975afFFBf7e487CDd40C894Ab6B/logo.png"
   }
 ]

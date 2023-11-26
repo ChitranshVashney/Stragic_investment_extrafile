@@ -316,7 +316,7 @@
     "Return_Category": "Low Return",
     "symbol": "MPS",
     "name": "MtPelerin Shares",
-    "decimals": 18,
+    "decimals": 0,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96c645D3D3706f793Ef52C19bBACe441900eD47D/logo.png"
   },
   {
@@ -1044,9 +1044,9 @@
     "Expected Returns%": "0.374579314814008",
     "Risk_Category": "Low Risk",
     "Return_Category": "Low Return",
-    "symbol": "",
-    "name": "",
-    "decimals": 0,
+    "symbol": "GMM",
+    "name": "Gamium [via ChainPort.io]",
+    "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/smartchain/assets/0x5B6bf0c7f989dE824677cFBD507D9635965e9cD3/logo.png"
   },
   {

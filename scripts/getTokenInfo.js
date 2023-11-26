@@ -115,11 +115,11 @@ const getTokenInfo = async () => {
   fs.writeFileSync(filePath5, jsonString5);
 
   let allToken = [];
-  allToken.push(lowReturnMR);
-  allToken.push(lowReturnLR);
-  allToken.push(highReturnHR);
-  allToken.push(highReturnMR);
-  allToken.push(highReturnLR);
+  allToken.push(...lowReturnMR);
+  allToken.push(...lowReturnLR);
+  allToken.push(...highReturnHR);
+  allToken.push(...highReturnMR);
+  allToken.push(...highReturnLR);
 
   const jsonString6 = JSON.stringify(allToken, null, 2);
   const filePath6 = "allToken.json";
