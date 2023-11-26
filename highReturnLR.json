@@ -1,0 +1,452 @@
+[
+  {
+    "address": "0x082646b22a3960da69ef7a778c16dd6fb85dd999",
+    "Expected Returns%": "1.660022460299184",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "FKPEPE",
+    "name": "FUCK PEPE",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x70008f18fc58928dce982b0a69c2c21ff80dca54",
+    "Expected Returns%": "0.9426013074122472",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "X7R",
+    "name": "X7R",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x0ba74fb26ca523f2dc22fa4318581cc2452eaba1",
+    "Expected Returns%": "1.585302130562892",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "BOG",
+    "name": "Bogdanoff",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x335f4e66b9b61cee5ceade4e727fcec20156b2f0",
+    "Expected Returns%": "1.2174763924371081",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "ELMO",
+    "name": "Elmo",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x335F4e66B9B61CEE5CeaDE4e727FCEC20156B2F0/logo.png"
+  },
+  {
+    "address": "0x50eec6d765792dcfb0913c8403ef2a12e1b861a6",
+    "Expected Returns%": "1.884550302030168",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "Z3",
+    "name": "Z-Cubed",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x4ece5c5cfb9b960a49aae739e15cdb6cfdcc5782",
+    "Expected Returns%": "0.9565308431579957",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "DBUY",
+    "name": "Doont Buy",
+    "decimals": 9,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x038a68ff68c393373ec894015816e33ad41bd564",
+    "Expected Returns%": "1.6773544650417214",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "GLCH",
+    "name": "Glitch",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x7d8146cf21e8d7cbe46054e01588207b51198729",
+    "Expected Returns%": "1.6314629103614233",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "BOB",
+    "name": "BOB",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D8146cf21e8D7cbe46054e01588207b51198729/logo.png"
+  },
+  {
+    "address": "0x9b00e6e8d787b13756eb919786c9745054db64f9",
+    "Expected Returns%": "1.15570517875693",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "wSIENNA",
+    "name": "Sienna (ERC20)",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x8a7adc1b690e81c758f1bd0f72dfe27ae6ec56a5",
+    "Expected Returns%": "0.9466941598912615",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "BLID",
+    "name": "Bolide",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x4561de8e0c2bba725d38d266ef62426e62678d82",
+    "Expected Returns%": "1.0982113568087437",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "CONI",
+    "name": "ConiToken",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x7105e64bf67eca3ae9b123f0e5ca2b83b2ef2da0",
+    "Expected Returns%": "0.8885919380575394",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "X7DAO",
+    "name": "X7DAO",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x3a880652f47bfaa771908c07dd8673a787daed3a",
+    "Expected Returns%": "0.9911342072992839",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "DDX",
+    "name": "DerivaDAO",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3A880652F47bFaa771908C07Dd8673A787dAEd3A/logo.png"
+  },
+  {
+    "address": "0x7105faa4a26ed1c67b8b2b41bec98f06ee21d105",
+    "Expected Returns%": "1.079905815537701",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "X7105",
+    "name": "X7105",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x1aa51bc7eb181ce48ce626bf62f8956fa9555136",
+    "Expected Returns%": "0.8889968961245283",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "PAW",
+    "name": "PAWZONE",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xb0ed33f79d89541dfdcb04a8f04bc2c6be025ecc",
+    "Expected Returns%": "0.8723969357222758",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "ZERO",
+    "name": "ZeroLiquid",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x14da230d6726c50f759bc1838717f8ce6373509c",
+    "Expected Returns%": "0.9717871840575943",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "KAT",
+    "name": "Kambria Token",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xbe92b510007bd3ec0adb3d1fca338dd631e98de7",
+    "Expected Returns%": "0.8877521290940051",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "DEGEN",
+    "name": "Degen",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x4c601dc69affb0d4fc8de1ac303705e432a4a27e",
+    "Expected Returns%": "1.1514952703493821",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "KCT",
+    "name": "Konnect",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x8666cb197af5103f7a3a0295b50efea47f3df78b",
+    "Expected Returns%": "1.1967945900071832",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "DUCKS",
+    "name": "Ducks",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xa885b6d3c87535de688194ec3645199ee76d6772",
+    "Expected Returns%": "1.0895143284406652",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "TOKR",
+    "name": "Tokerr",
+    "decimals": 9,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x7cb683151a83c2b10a30cbb003cda9996228a2ba",
+    "Expected Returns%": "0.8522800252542588",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "IYKYK",
+    "name": "IYKYK",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x8bcbef61acd66537362f38167f11875134ffcd63",
+    "Expected Returns%": "1.0673164343614348",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "PEPEG",
+    "name": "Pepe Girl",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+    "Expected Returns%": "0.9521065510506079",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "SOS",
+    "name": "SOS",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x3b484b82567a09e2588A13D54D032153f0c0aEe0/logo.png"
+  },
+  {
+    "address": "0x2c7f442aab99d5e18cfae2291c507c0b5f3c1eb5",
+    "Expected Returns%": "0.9603562415899103",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "KEKO",
+    "name": "KEKO",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x58fcaa970339a9b1f8c0a5b4f3fcd7af2ba3075e",
+    "Expected Returns%": "1.4068153473442595",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "POLAR",
+    "name": "PolarSync",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x2c10c0de3362ff21f8ed6bc7f4ac5e391153fd2c",
+    "Expected Returns%": "0.9268425473082095",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "VIZ",
+    "name": "MARKETVIZ",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608",
+    "Expected Returns%": "0.998843484991292",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "MIR",
+    "name": "Wrapped MIR Token",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x09a3EcAFa817268f77BE1283176B946C4ff2E608/logo.png"
+  },
+  {
+    "address": "0xb197a6fdd8ab825332edeba1ab5c4d1bf97fb9a8",
+    "Expected Returns%": "1.2505477618709933",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "SHIBDAO",
+    "name": "Shibarium DAO",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x049715c70fdbdd2be4814f76a53dc3d6f4367756",
+    "Expected Returns%": "1.0562344904634184",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "NEZUKO",
+    "name": "Nezuko",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xb69753c06bb5c366be51e73bfc0cc2e3dc07e371",
+    "Expected Returns%": "1.4120661660225908",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "POOH",
+    "name": "POOH",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x830a8512db4f6fca51968593e2667156c2c483a8",
+    "Expected Returns%": "1.8994606723183882",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "WEN",
+    "name": "WEN Token",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x8eb5bd8c9ab0f8ad28e94693f3c889f490be2ab0",
+    "Expected Returns%": "0.8614176169875186",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "POS32",
+    "name": "PoS-32",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x15874d65e649880c2614e7a480cb7c9a55787ff6",
+    "Expected Returns%": "1.053785380937757",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "eMax",
+    "name": "EthereumMax",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x15874d65e649880c2614e7a480cb7c9A55787FF6/logo.png"
+  },
+  {
+    "address": "0x97d4f49eeb0e2c96d5ebaa71ab8418e563ecd9fd",
+    "Expected Returns%": "1.2370556750563981",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "LSD",
+    "name": "Liquid Staking Derivatives",
+    "decimals": 9,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xbe00734799a67a62af2819825580318ac1b1e4ec",
+    "Expected Returns%": "0.8657698900683353",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "ORD",
+    "name": "ordinex",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xa876f27f13a9eb6e621202cefdd5afc4a90e6457",
+    "Expected Returns%": "1.0957629817085237",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "IC",
+    "name": "Icy",
+    "decimals": 9,
+    "thumbnail": ""
+  },
+  {
+    "address": "0xb5f1457d6fba1956fb8d31b0b7caca14bde0be4b",
+    "Expected Returns%": "1.1537034153507646",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "STILT",
+    "name": "Stilton",
+    "decimals": 9,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+    "Expected Returns%": "0.9983548296335172",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "NEWO",
+    "name": "New Order",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x221657776846890989a759ba2973e427dff5c9bb",
+    "Expected Returns%": "1.6777874374041515",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "REPv2",
+    "name": "Reputation",
+    "decimals": 18,
+    "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x221657776846890989a759BA2973e427DfF5C9bB/logo.png"
+  },
+  {
+    "address": "0x02d7a93829b365b7ad4c582dace1493aac50a290",
+    "Expected Returns%": "1.6144865409191658",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "CAT",
+    "name": "Scat",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x54b8d105aa09342fad6b352d41a0bad3e1a9aa9d",
+    "Expected Returns%": "1.6989020712650373",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "PANTO",
+    "name": "PANTOMIME",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x78132543d8e20d2417d8a07d9ae199d458a0d581",
+    "Expected Returns%": "0.8607862695428405",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "LINU",
+    "name": "Luna Inu",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x9ed1439d328647bdb148c20316ea024c719a735b",
+    "Expected Returns%": "1.4240957745861849",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "LT",
+    "name": "Light Token",
+    "decimals": 18,
+    "thumbnail": ""
+  },
+  {
+    "address": "0x53250b5dfa8c911547afeaf18db025024c8e919a",
+    "Expected Returns%": "0.9474697634737201",
+    "Risk_Category": "Low Risk",
+    "Return_Category": "High Return",
+    "symbol": "KERMIT",
+    "name": "Kermit",
+    "decimals": 9,
+    "thumbnail": ""
+  }
+]
