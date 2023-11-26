@@ -10,16 +10,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x20e7125677311Fca903A8897042b9983f22Ea295/logo.png"
   },
   {
-    "address": "0x1353575d76444a11730d2f286e6303990eb1e357",
-    "Expected Returns%": "2.6463431010359812",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "KEK",
-    "name": "Kek",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x1a963df363d01eebb2816b366d61c917f20e1ebe",
     "Expected Returns%": "1.5533554535365945",
     "Risk_Category": "Medium Risk",
@@ -28,46 +18,6 @@
     "name": "Mememe",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1A963Df363D01EEBB2816b366d61C917F20e1EbE/logo.png"
-  },
-  {
-    "address": "0x8686525d6627a25c68de82c228448f43c97999f2",
-    "Expected Returns%": "2.401206189194347",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "Ly",
-    "name": "Lilly Finance",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x7e9d8f07a64e363e97a648904a89fb4cd5fb94cd",
-    "Expected Returns%": "1.4067856341840053",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "FF",
-    "name": "Forefront",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x70881d5c8a5950ceedf1f1b4b5d4105718642548",
-    "Expected Returns%": "1.2649110736535527",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BAG",
-    "name": "Bagholder",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x0f1e49d6dcfc9eefcce9d5ae3c660f8ead75061a",
-    "Expected Returns%": "1.659562097026426",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "VINLINK",
-    "name": "VINLINK",
-    "decimals": 9,
-    "thumbnail": ""
   },
   {
     "address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
@@ -80,36 +30,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4d224452801ACEd8B2F0aebE155379bb5D594381/logo.png"
   },
   {
-    "address": "0x5c559f3ee9a81da83e069c0093471cb05d84052a",
-    "Expected Returns%": "1.2207692714390002",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BABYPEPE",
-    "name": "BabyPepe",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x9f5f463a7666e04cdabd22bd83569a5c72cb4f4d",
-    "Expected Returns%": "1.9433984597647793",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SU",
-    "name": "Smol Su",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x519c1001d550c0a1dae7d1fc220f7d14c2a521bb",
-    "Expected Returns%": "0.9992775286422195",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "PSWAP",
-    "name": "Polkaswap",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x986ee2b944c42d017f52af21c4c69b84dbea35d8",
     "Expected Returns%": "1.3913952745636529",
     "Risk_Category": "Medium Risk",
@@ -118,96 +38,6 @@
     "name": "BitMartToken",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x986EE2B944c42D017F52Af21c4c69B84DBeA35d8/logo.png"
-  },
-  {
-    "address": "0x76306f029f8f99effe509534037ba7030999e3cf",
-    "Expected Returns%": "1.420954716640808",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "ACR",
-    "name": "Acreage",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x238cefec182679c27a3035713416fa0a8198b302",
-    "Expected Returns%": "2.105035324516745",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "GMEME",
-    "name": "GoodMeme",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x370a366f402e2e41cdbbe54ecec12aae0cce1955",
-    "Expected Returns%": "1.4637851845014216",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TOAD",
-    "name": "TOAD KILLER",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xaada04204e9e1099daf67cf3d5d137e84e41cf41",
-    "Expected Returns%": "2.219039114901412",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "PEEPO",
-    "name": "PEEPO",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8442e0e292186854bb6875b2a0fc1308b9ded793",
-    "Expected Returns%": "2.134121388184877",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "PP",
-    "name": "Print The Pepe",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x62d04c79c1f3a2d7230ffcd3ab01794e1d153239",
-    "Expected Returns%": "1.9280177071365492",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "OGMF",
-    "name": "CryptoPirates",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x97abee33cd075c58bfdd174e0885e08e8f03556f",
-    "Expected Returns%": "1.6306881262488642",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SENT",
-    "name": "Sentiment Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xaf75d880b3128981d1fed3292fc02e3fb37acd53",
-    "Expected Returns%": "0.993570318142282",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TRUTH",
-    "name": "TruthGPT",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x3d2b66bc4f9d6388bd2d97b95b565be1686aefb3",
-    "Expected Returns%": "2.140447682609829",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "LAMBO",
-    "name": "Lambo",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0xad22f63404f7305e4713ccbd4f296f34770513f4",
@@ -220,36 +50,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xaD22f63404f7305e4713CcBd4F296f34770513f4/logo.png"
   },
   {
-    "address": "0x471a202f69d6e975da55e363dab1bdb2e86e0c0f",
-    "Expected Returns%": "2.7839725308923615",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "GEKE",
-    "name": "Geke",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x049e9f5369358786a1ce6483d668d062cfe547ec",
-    "Expected Returns%": "2.6621466813755736",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "CHECKS",
-    "name": "Checks Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x3d9a4d8ab4f5bd1d5d08ae3a95e8ed8bb4d7e3b9",
-    "Expected Returns%": "2.3212919002474726",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "STONKS",
-    "name": "STONKSDAO",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x464fdb8affc9bac185a7393fd4298137866dcfb8",
     "Expected Returns%": "1.1210440605206446",
     "Risk_Category": "Medium Risk",
@@ -258,66 +58,6 @@
     "name": "REALM",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x464FdB8AFFC9bac185A7393fd4298137866DCFB8/logo.png"
-  },
-  {
-    "address": "0x2e516ba5bf3b7ee47fb99b09eadb60bde80a82e0",
-    "Expected Returns%": "1.9164864838043223",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "EGGS",
-    "name": "Eggs",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x295b42684f90c77da7ea46336001010f2791ec8c",
-    "Expected Returns%": "0.8937934669060251",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "XI",
-    "name": "Xi Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x428dca9537116148616a5a3e44035af17238fe9d",
-    "Expected Returns%": "1.263477954367167",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "OXAI",
-    "name": "OxAI",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8013266cb5c9dd48be3ad7d1ce832874d64b3ce1",
-    "Expected Returns%": "1.2937184123087346",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BOOP",
-    "name": "Boop",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x6f2dec5da475333b0af4a3ffc9a33b0211a9a452",
-    "Expected Returns%": "2.077660239262039",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "CT",
-    "name": "CryptoTwitter",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xb076bda1abc154ddb4ccd9be45542a823aee290e",
-    "Expected Returns%": "1.6037612973571413",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "FLEX",
-    "name": "FlexMeme",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x1ce270557c1f68cfb577b856766310bf8b47fd9c",
@@ -330,16 +70,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1ce270557C1f68Cfb577b856766310Bf8B47FD9C/logo.png"
   },
   {
-    "address": "0x2b1d36f5b61addaf7da7ebbd11b35fd8cfb0de31",
-    "Expected Returns%": "1.4480180231560196",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "ITP",
-    "name": "Interport Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
     "Expected Returns%": "1.3182669987952709",
     "Risk_Category": "Medium Risk",
@@ -350,36 +80,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x12b6893cE26Ea6341919FE289212ef77e51688c8/logo.png"
   },
   {
-    "address": "0x857d4d47a707cb4e409e14ac63b2e79114acd102",
-    "Expected Returns%": "3.999712130118991",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TITR",
-    "name": "Titter",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c",
-    "Expected Returns%": "1.3877375950215405",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "UPI",
-    "name": "Pawtocol Network UPI Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x80f0c1c49891dcfdd40b6e0f960f84e6042bcb6f",
-    "Expected Returns%": "3.1823547614658123",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "DXN",
-    "name": "DBXen Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x4b1e80cac91e2216eeb63e29b957eb91ae9c2be8",
     "Expected Returns%": "1.3198520810375998",
     "Risk_Category": "Medium Risk",
@@ -388,36 +88,6 @@
     "name": "Jupiter",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4B1E80cAC91e2216EEb63e29B957eB91Ae9C2Be8/logo.png"
-  },
-  {
-    "address": "0xb794ad95317f75c44090f64955954c3849315ffe",
-    "Expected Returns%": "2.5087266094460445",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "RIBBIT",
-    "name": "Ribbit",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x61f7fdaae910f3ed65fb1a3ab59354e38b06cf8e",
-    "Expected Returns%": "3.187978957276247",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BTCPEP",
-    "name": "BitcoinPepe",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x610c584f1275f0f7c982af0ac7883ff4dba661bd",
-    "Expected Returns%": "inf",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "FX1",
-    "name": "FX1 Sports",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x9bf1d7d63dd7a4ce167cf4866388226eeefa702e",
@@ -440,36 +110,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png"
   },
   {
-    "address": "0xa16a609ff4e1a15b6ccb469e7a5dd14e89305283",
-    "Expected Returns%": "1.864772885560822",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SPUME",
-    "name": "Spume",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xc6e145421fd494b26dcf2bfeb1b02b7c5721978f",
-    "Expected Returns%": "1.8770154530091354",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "CPRX",
-    "name": "Crypto Perx",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
-    "Expected Returns%": "0.904795154887194",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "0x0",
-    "name": "0x0.ai: AI Smart Contract Auditor",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
     "address": "0x0c37bcf456bc661c14d596683325623076d7e283",
     "Expected Returns%": "1.1036711646527744",
     "Risk_Category": "Medium Risk",
@@ -478,36 +118,6 @@
     "name": "Aeron",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0C37Bcf456bC661C14D596683325623076D7e283/logo.png"
-  },
-  {
-    "address": "0x73a83269b9bbafc427e76be0a2c1a1db2a26f4c2",
-    "Expected Returns%": "1.962410268475259",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "0NE",
-    "name": "Stone",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x801de502c493aa9d3f9f79a0348fbc00521b3001",
-    "Expected Returns%": "1.1102664202934134",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "RELAX",
-    "name": "Relaxable",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x87de305311d5788e8da38d19bb427645b09cb4e5",
-    "Expected Returns%": "0.9799704406749349",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "VRX",
-    "name": "Verox",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x9d7630adf7ab0b0cb00af747db76864df0ec82e4",
@@ -520,36 +130,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9d7630aDF7ab0b0CB00Af747Db76864df0EC82E4/logo.png"
   },
   {
-    "address": "0x429aca1ccd47296483d1281c85b24e842de0b758",
-    "Expected Returns%": "1.1052273013141645",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "YEET",
-    "name": "Yeet",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x2b9a49417f9c9c8dd18ef5bb37c20637441ad67a",
-    "Expected Returns%": "1.8458438192969626",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "greg",
-    "name": "greg",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
-    "Expected Returns%": "0.9794629509519885",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "EDEN",
-    "name": "Eden Back Inu",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x8a40c222996f9f3431f63bf80244c36822060f12",
     "Expected Returns%": "1.4818920250391079",
     "Risk_Category": "Medium Risk",
@@ -558,16 +138,6 @@
     "name": "Finxflo",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8a40c222996f9F3431f63Bf80244C36822060f12/logo.png"
-  },
-  {
-    "address": "0x235c8ee913d93c68d2902a8e0b5a643755705726",
-    "Expected Returns%": "1.4064895078229565",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BAG",
-    "name": "tehBag",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x0ae055097c6d159879521c384f1d2123d1f195e6",
@@ -590,26 +160,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5919DeA604631016c15c805e3D948A0384879892/logo.png"
   },
   {
-    "address": "0xa9e8acf069c58aec8825542845fd754e41a9489a",
-    "Expected Returns%": "0.9609004844331357",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "pepecoin",
-    "name": "pepeCoin",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x4159862bcf6b4393a80550b1ed03dffa6f90533c",
-    "Expected Returns%": "1.4779637500633007",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "OHMI",
-    "name": "One Hundred Million Inu",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0xb8c77482e45f1f44de1745f52c74426c631bdd52",
     "Expected Returns%": "0.983617274616078",
     "Risk_Category": "Medium Risk",
@@ -618,26 +168,6 @@
     "name": "BNB",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB8c77482e45F1F44dE1745F52C74426C631bDD52/logo.png"
-  },
-  {
-    "address": "0x758b4684be769e92eefea93f60dda0181ea303ec",
-    "Expected Returns%": "1.5294043237582269",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "PHONON",
-    "name": "Phonon DAO",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x5efcea234f7547de4569aad1215fa5d2adaced38",
-    "Expected Returns%": "1.5302801869399898",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "HONK",
-    "name": "Clown Pepe",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
@@ -650,36 +180,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x9813037ee2218799597d83D4a5B6F3b6778218d9/logo.png"
   },
   {
-    "address": "0x24c19f7101c1731b85f1127eaa0407732e36ecdd",
-    "Expected Returns%": "1.706733814622679",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SGT",
-    "name": "Sharedstake.finance",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x9be776559fed779cabd67042a7b8987aae592541",
-    "Expected Returns%": "1.323258848681746",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BULL",
-    "name": "Bull Market",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x77a90b04d64189d4d09508612c09219bc6816bdc",
-    "Expected Returns%": "1.412147603107689",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TOSHI",
-    "name": "Toshi Tools",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
     "address": "0x0f7f961648ae6db43c75663ac7e5414eb79b5704",
     "Expected Returns%": "2.202795347842103",
     "Risk_Category": "Medium Risk",
@@ -688,66 +188,6 @@
     "name": "XIO Network",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0f7F961648aE6Db43C75663aC7E5414Eb79b5704/logo.png"
-  },
-  {
-    "address": "0x3446dd70b2d52a6bf4a5a192d9b0a161295ab7f9",
-    "Expected Returns%": "1.1291681536658742",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SUDO",
-    "name": "SUDO GOVERNANCE TOKEN",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8b937af714ac7e2129bd33d93641f52b665ca352",
-    "Expected Returns%": "1.509075775421093",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "JIZZ",
-    "name": "JizzRocket",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x6c4c193bff0a117f0c2b516802abba961a1eeb12",
-    "Expected Returns%": "1.6965398160159433",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "PAPA",
-    "name": "Papa",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x56d3d0b333d29b48dd7c01d516a737b8866fbee2",
-    "Expected Returns%": "2.2567389741985924",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "NTN",
-    "name": "Naetion",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x1032abe2902a23ddcbab085c20e0e69c33ceb8fa",
-    "Expected Returns%": "1.7274489734386878",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SNAKE",
-    "name": "Pepe Predator",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x1d6405138a335ce5fd7364086334efb3e4f28b59",
-    "Expected Returns%": "1.3571548338108754",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "CCX",
-    "name": "ClearCryptos",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0xbb1ee07d6c7baeb702949904080eb61f5d5e7732",
@@ -760,86 +200,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xbb1EE07d6c7BAeB702949904080eb61f5D5e7732/logo.png"
   },
   {
-    "address": "0x55fb228730ed971269ebf284c7500d5ff572a141",
-    "Expected Returns%": "1.690902313106422",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": " PEPECOLA",
-    "name": "PepeCola",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x4c3a8eceb656ec63eae80a4ebd565e4887db6160",
-    "Expected Returns%": "1.7809434740356074",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SOKU",
-    "name": "Soku",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x31fdd1c6607f47c14a2821f599211c67ac20fa96",
-    "Expected Returns%": "0.8829998898320319",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BUY",
-    "name": "Burency",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xb939da54f9748440a1b279d42be1296942732288",
-    "Expected Returns%": "1.859859983670795",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "FONZY",
-    "name": "Fonzy",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x0c6bf55f60143fa1da202ac8c9b8ce484b5a5d90",
-    "Expected Returns%": "1.750218657972385",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "ODA",
-    "name": "Eiichiro Oda",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x4f640f2529ee0cf119a2881485845fa8e61a782a",
-    "Expected Returns%": "1.0055543869771661",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "ORE",
-    "name": "pTokens ORE",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x41c21693e60fc1a5dbb7c50e54e7a6016aa44c99",
-    "Expected Returns%": "1.5807339109405738",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "",
-    "name": "",
-    "decimals": 0,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x4fd51cb87ffefdf1711112b5bd8ab682e54988ea",
-    "Expected Returns%": "1.898134620591262",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "WPT",
-    "name": "WPT Investing Corp",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x054d64b73d3d8a21af3d764efd76bcaa774f3bb2",
     "Expected Returns%": "1.4767057144478266",
     "Risk_Category": "Medium Risk",
@@ -848,126 +208,6 @@
     "name": "Plasma",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x054D64b73d3D8A21Af3D764eFd76bCaA774f3Bb2/logo.png"
-  },
-  {
-    "address": "0x5c2975269e74cb3a8514e5b800a1e66c694d4df8",
-    "Expected Returns%": "1.3104664669126294",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "HER",
-    "name": "CAROLINE",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x102203517ce35ac5cab9a2cda80df03f26c7419b",
-    "Expected Returns%": "1.5658521684115732",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SMTX",
-    "name": "SUMOTEX",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xa7fbd9254f10f8e20a31a593c9e8bc0d041e15f6",
-    "Expected Returns%": "1.1255920411357534",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "ORBN",
-    "name": "Orbeon Protocol",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x02e7f808990638e9e67e1f00313037ede2362361",
-    "Expected Returns%": "1.6844862018457407",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "KIBSHI",
-    "name": "KiboShib",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x0ebe30595a44e5288c24161ddfc1e9fa08e33a0c",
-    "Expected Returns%": "2.089281797958086",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "NYAN",
-    "name": "Nyan Meme Coin",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x516e2758b044433371076a48127b8cfa7b0bdb43",
-    "Expected Returns%": "1.7811469940199096",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SMUDGE",
-    "name": "Smudge Lord",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8e235f491ae66b82296d58332adc2a021c449c10",
-    "Expected Returns%": "1.413828951859997",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TIPJA",
-    "name": "Tipja",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x7797c85b46f548eacc07c229f6cd207d6370442f",
-    "Expected Returns%": "1.6283939565952115",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TAG",
-    "name": "Dog Tag",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x849c479d7a90eb378dbd00e8f166371176244eb1",
-    "Expected Returns%": "2.020621949940705",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "MUU",
-    "name": "MUU",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xacb47686b92fdde6d233ec6445c1f8d4d0d59c38",
-    "Expected Returns%": "1.8740349720207679",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SWIPE",
-    "name": "Swipe Bot",
-    "decimals": 8,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x2c95d751da37a5c1d9c5a7fd465c1d50f3d96160",
-    "Expected Returns%": "1.12124575898162",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "WASSIE",
-    "name": "WASSIE",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8a944bb731e302fdb3571350513f149f15fcbe34",
-    "Expected Returns%": "2.0494475862133954",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "RIZZ",
-    "name": "KISS",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x8f3470a7388c05ee4e7af3d01d8c722b0ff52374",
@@ -990,46 +230,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x419D0d8BdD9aF5e606Ae2232ed285Aff190E711b/logo.png"
   },
   {
-    "address": "0x3d38f87bef0123f5764635c7e11048027e0721a8",
-    "Expected Returns%": "0.8868953374907214",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "EWW",
-    "name": "EndlessWebWorlds",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x24022539963319b0d6ca92797cfdc7cdf59c6930",
-    "Expected Returns%": "2.9818113399658817",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "GAIN",
-    "name": "GOLD AI NETWORK TOKEN",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x0d248ce39e26fb00f911fb1e7a45a00d8c94341c",
-    "Expected Returns%": "1.3505524703102874",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "BUTTER",
-    "name": "Butter",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x68b429161ec09a6c1d65ba70727ab1faa5bc4026",
-    "Expected Returns%": "1.9325701635159631",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "oDoge",
-    "name": "Ordinal Doge",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
     "Expected Returns%": "1.672502987740842",
     "Risk_Category": "Medium Risk",
@@ -1040,113 +240,13 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x65Ef703f5594D2573eb71Aaf55BC0CB548492df4/logo.png"
   },
   {
-    "address": "0x77571a64342667f7818520ef004b2b91f47a266b",
-    "Expected Returns%": "2.8661979588214117",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "SNM",
-    "name": "SnailMoon",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x15a3081b541e8dad25c4a5e0c4c4b4e8d105b2e8",
-    "Expected Returns%": "1.4848081565508793",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "$POV",
-    "name": "Pepe Original Version",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0xa4cf2afd3b165975afffbf7e487cdd40c894ab6b",
     "Expected Returns%": "1.0206060098951912",
     "Risk_Category": "Medium Risk",
     "Return_Category": "High Return",
     "symbol": "SHIBAKEN",
     "name": "ShibaKen.Finance",
-    "decimals": 0,
+    "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xa4Cf2aFD3B165975afFFBf7e487CDd40C894Ab6B/logo.png"
-  },
-  {
-    "address": "0x69d47846bb7b884062fabc08a4a7deadcd98c45b",
-    "Expected Returns%": "2.28923141175101",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "rushAI",
-    "name": "AlphaRushAI",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x27f103f86070cc639fef262787a16887d22d8415",
-    "Expected Returns%": "2.1746384318382304",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "FOFO",
-    "name": "FOFO Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x12a7530d6f9e1a9b0351d78ab711f7c2c033873a",
-    "Expected Returns%": "1.707403347960495",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "A Birds Nest",
-    "name": "HOOT",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x238a1fcc2f65ed50c1e1797cf5857cba3e82a55b",
-    "Expected Returns%": "0.9354094269504103",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "MOETA",
-    "name": "Moeta",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x75387e1287dd85482ab66102da9f6577e027f609",
-    "Expected Returns%": "1.2665033288853915",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "MAI",
-    "name": "MindsyncAI",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x64d91f12ece7362f91a6f8e7940cd55f05060b92",
-    "Expected Returns%": "1.033219401145344",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "ASH",
-    "name": "Burn",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xa589d8868607b8d79ee4288ce192796051263b64",
-    "Expected Returns%": "1.225981621292924",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "TATE",
-    "name": "Tate",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xa4cb3ef5f41a4d89d6fced22ea8a1c57957629aa",
-    "Expected Returns%": "1.9312163064088381",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "High Return",
-    "symbol": "MR",
-    "name": "METARUFFY",
-    "decimals": 18,
-    "thumbnail": ""
   }
 ]

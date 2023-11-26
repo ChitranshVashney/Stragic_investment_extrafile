@@ -40,36 +40,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd31695a1d35E489252CE57b129FD4b1B05E6AcaC/logo.png"
   },
   {
-    "address": "0x1936c91190e901b7dd55229a574ae22b58ff498a",
-    "Expected Returns%": "0.6945946478867753",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "MEVFree",
-    "name": "MEVFree",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x39142c18b6db2a8a41b7018f49e1478837560cad",
-    "Expected Returns%": "0.465775531053788",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "STATS",
-    "name": "Stats",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x6c22910c6f75f828b305e57c6a54855d8adeabf8",
-    "Expected Returns%": "0.14927970107283173",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "SATS",
-    "name": "SATOSHIS VISION",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
     "address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986",
     "Expected Returns%": "0.7233337887029248",
     "Risk_Category": "Medium Risk",
@@ -90,56 +60,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5283D291DBCF85356A21bA090E6db59121208b44/logo.png"
   },
   {
-    "address": "0x24da31e7bb182cb2cabfef1d88db19c2ae1f5572",
-    "Expected Returns%": "0.6590310858709766",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "SHIK",
-    "name": "SHIKOKU INU",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x878fcc2bdcccff8c56812607b9a58f29b274c4f0",
-    "Expected Returns%": "0.2836703186155086",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "DERP",
-    "name": "DERP Coin",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x43ab765ee05075d78ad8aa79dcb1978ca3079258",
-    "Expected Returns%": "0.45890913851495424",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "POW",
-    "name": "POW",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x4bdcb66b968060d9390c1d12bd29734496205581",
-    "Expected Returns%": "0.3639309407560637",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "ACQ",
-    "name": "Acquire.Fi",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x73d7c860998ca3c01ce8c808f5577d94d545d1b4",
-    "Expected Returns%": "-0.271046906121908",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "IXS",
-    "name": "Ixs Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
     "Expected Returns%": "-0.3728302285250717",
     "Risk_Category": "Medium Risk",
@@ -158,36 +78,6 @@
     "name": "BAD IDEA AI",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x32b86b99441480a7E5BD3A26c124ec2373e3F015/logo.png"
-  },
-  {
-    "address": "0x72e4f9f808c49a2a61de9c5896298920dc4eeea9",
-    "Expected Returns%": "0.46147282287311575",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "BITCOIN",
-    "name": "HarryPotterObamaSonic10Inu",
-    "decimals": 8,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x427a03fb96d9a94a6727fbcfbba143444090dd64",
-    "Expected Returns%": "-0.0689880167817149",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "PIXL",
-    "name": "PIXL",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xa64d5d1eb67748226d84812b45711453f1118c32",
-    "Expected Returns%": "0.6467164293105336",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "CINU",
-    "name": "CheemsInu",
-    "decimals": 9,
-    "thumbnail": ""
   },
   {
     "address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
@@ -220,36 +110,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x85Eee30c52B0b379b046Fb0F85F4f3Dc3009aFEC/logo.png"
   },
   {
-    "address": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
-    "Expected Returns%": "0.34693677247660343",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "COT",
-    "name": "CosplayToken",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x2653891204f463fb2a2f4f412564b19e955166ae",
-    "Expected Returns%": "0.650732820156254",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "NGL",
-    "name": "Gold Fever Native Gold",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
-    "Expected Returns%": "-0.13503946026346175",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "KNDX",
-    "name": "Kondux",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
     "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
     "Expected Returns%": "0.5558344033576188",
     "Risk_Category": "Medium Risk",
@@ -268,36 +128,6 @@
     "name": "Wrapped BNB",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x418D75f65a02b3D53B2418FB8E1fe493759c7605/logo.png"
-  },
-  {
-    "address": "0x738865301a9b7dd80dc3666dd48cf034ec42bdda",
-    "Expected Returns%": "0.7699233187500075",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "AGRS",
-    "name": "Agoras Token",
-    "decimals": 8,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8790f2fc7ca2e7db841307fb3f4e72a03baf7b47",
-    "Expected Returns%": "0.6439393680798747",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "SpillWays",
-    "name": "SpillWays",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x8ee325ae3e54e83956ef2d5952d3c8bc1fa6ec27",
-    "Expected Returns%": "0.34998891818461897",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "TYRANT",
-    "name": "Fable Of The Dragon",
-    "decimals": 9,
-    "thumbnail": ""
   },
   {
     "address": "0x2f141ce366a2462f02cea3d12cf93e4dca49e4fd",
@@ -320,26 +150,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x8642A849D0dcb7a15a974794668ADcfbe4794B56/logo.png"
   },
   {
-    "address": "0x1151cb3d861920e07a38e03eead12c32178567f6",
-    "Expected Returns%": "-0.08498566310988977",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "Bonk",
-    "name": "Bonk",
-    "decimals": 5,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xb24cd494fae4c180a89975f1328eab2a7d5d8f11",
-    "Expected Returns%": "0.42191389952120106",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "CODE",
-    "name": "Developer DAO",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0x96610186f3ab8d73ebee1cf950c750f3b1fb79c2",
     "Expected Returns%": "0.3580361436621953",
     "Risk_Category": "Medium Risk",
@@ -348,26 +158,6 @@
     "name": "Enjinstarter",
     "decimals": 18,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x96610186F3ab8d73EBEe1CF950C750f3B1Fb79C2/logo.png"
-  },
-  {
-    "address": "0xbfb2b6870501a6ff17121d676a0a45a38c9eed1e",
-    "Expected Returns%": "-1.238382821589561",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "TOAD",
-    "name": "LuckyToadv3",
-    "decimals": 9,
-    "thumbnail": ""
-  },
-  {
-    "address": "0xa3ad8c7ab6b731045b5b16e3fdf77975c71abe79",
-    "Expected Returns%": "-0.8803189132051781",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "DINERO",
-    "name": "DINERO",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24",
@@ -380,16 +170,6 @@
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6De037ef9aD2725EB40118Bb1702EBb27e4Aeb24/logo.png"
   },
   {
-    "address": "0x6ff2241756549b5816a177659e766eaf14b34429",
-    "Expected Returns%": "-0.6626391207695531",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "AQTIS",
-    "name": "AQTIS Token",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
     "address": "0xb6ed7644c69416d67b522e20bc294a9a9b405b31",
     "Expected Returns%": "0.6927963693534585",
     "Risk_Category": "Medium Risk",
@@ -398,16 +178,6 @@
     "name": "0xBitcoin Token",
     "decimals": 8,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB6eD7644C69416d67B522e20bC294A9a9B405B31/logo.png"
-  },
-  {
-    "address": "0x4332f8a38f14bd3d8d1553af27d7c7ac6c27278d",
-    "Expected Returns%": "0.5114350527465028",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "APEFI",
-    "name": "Ape Finance",
-    "decimals": 18,
-    "thumbnail": ""
   },
   {
     "address": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
@@ -428,26 +198,6 @@
     "name": "Compound Dai",
     "decimals": 8,
     "thumbnail": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643/logo.png"
-  },
-  {
-    "address": "0x939a7a577d93ad29b64c1595b1284ce660a479b9",
-    "Expected Returns%": "0.37078090679049924",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "JEJUDOGE",
-    "name": "Jejudoge",
-    "decimals": 18,
-    "thumbnail": ""
-  },
-  {
-    "address": "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3",
-    "Expected Returns%": "0.13664451668593253",
-    "Risk_Category": "Medium Risk",
-    "Return_Category": "Low Return",
-    "symbol": "OMIKAMI",
-    "name": "AMATERASU OMIKAMI",
-    "decimals": 9,
-    "thumbnail": ""
   },
   {
     "address": "0x30f271c9e86d2b7d00a6376cd96a1cfbd5f0b9b3",
